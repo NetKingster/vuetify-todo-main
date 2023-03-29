@@ -3,7 +3,7 @@
 Documantations is [here](https://cli.vuejs.org/guide/mode-and-env.html#environment-variables).  
 Environment file exaple:
 ```
-VUE_APP_TITLE=Vuetify Todo Prod
+VUE_APP_TITLE = Vuetify Todo Prod
 ```
 Files:
 - **.env.local** - local machine

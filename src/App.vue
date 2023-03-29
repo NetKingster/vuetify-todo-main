@@ -63,7 +63,7 @@
           </v-row>
           <v-row class="px-3 text-h4">
             <v-app-bar-title>
-              {{ $store.state.appTitle }}
+              Vue Todo App
             </v-app-bar-title>
           </v-row>
           <v-row class="px-3">
