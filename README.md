@@ -1,7 +1,7 @@
-# Shitty Todo app [![Netlify Status](https://api.netlify.com/api/v1/badges/7cf66440-1992-4145-a6a0-f57b7db05c1a/deploy-status)](https://app.netlify.com/sites/shitty-vue-todo/deploys)  
+# Vuetify Todo app [![Netlify Status](https://api.netlify.com/api/v1/badges/7cf66440-1992-4145-a6a0-f57b7db05c1a/deploy-status)](https://app.netlify.com/sites/shitty-vue-todo/deploys)  
 [Link](https://vuetify-todo-main.netlify.app/#/)  
   
-![screen](https://raw.githubusercontent.com/p12s/vue-todo/main/vuetify-todo-app-capture.jpg)  
+![screen](https://raw.githubusercontent.com/p12s/vue-todo/main/vuetify-todo-app-capture.JPG)  
 
 ## Introducton
 In this example project, I learn how to use Vuetify along with Vue JS and Vuex to build a shitty Todo app from scratch.  
