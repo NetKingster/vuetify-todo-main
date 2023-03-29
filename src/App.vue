@@ -13,8 +13,8 @@
         <v-avatar>
           <img
             size="70"
-            src="https://cdn.vuetifyjs.com/images/john.jpg"
-            alt="John"
+            src="profile.jpg"
+            alt="NetKingster"
             class="mb-1"
           />
         </v-avatar>
